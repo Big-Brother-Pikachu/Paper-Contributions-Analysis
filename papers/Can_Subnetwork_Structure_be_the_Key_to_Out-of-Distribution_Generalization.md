@@ -15,3 +15,9 @@ straightforward and effective algorithm to improve
 OOD generalization. MRM helps select subnetworks
 and can be used in conjunction with other methods
 (e.g., IRM) and boosts their performance as well.
+
+# Contributions in my words modified
+
+1. ~~They found a sparse classifier is good for Out-of-distribution(OOD) generalization.~~
+2. They found simple Exception Risk Minimization(ERM) trained model has subnetwork that ~~only~~ utilizes **more** non-spurious features. And a modified lottery tickets hypothesis holds that we can retrain the subnetwork with the same initialization values to reach better generalization ability **with compareable in-distribution accuracy and training time**.
+3. They proposed a method called Modular Risk Minimization(MRM) to find the desired subnetwork with sparsity regularzation, and retrain the subnetwork to get a model with good out-distribution generalization performance. Also, this method is orthogonal to other OOD algorithms. Experiment results domenstrate the effectness of this method **and its enhancement to other algorithms**.
