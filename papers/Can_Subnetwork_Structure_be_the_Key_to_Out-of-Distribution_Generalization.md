@@ -1,4 +1,4 @@
-[**Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?**](https://github.com/Big-Brother-Pikachu/Paper-Contributions-Analysis#1-can-subnetwork-structure-be-the-key-to-out-of-distribution-generalization?)
+[**Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?**](https://github.com/Big-Brother-Pikachu/Paper-Contributions-Analysis#1-can-subnetwork-structure-be-the-key-to-out-of-distribution-generalization)
 
 # Contributions in my words
 
