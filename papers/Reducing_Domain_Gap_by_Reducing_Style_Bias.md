@@ -1,4 +1,4 @@
-[**Reducing Domain Gap by Reducing Style Bias**](2-cvpr-2021-oral)
+[**Reducing Domain Gap by Reducing Style Bias**](/#2-cvpr-2021-oral)
 
 # Contributions in my words
 
