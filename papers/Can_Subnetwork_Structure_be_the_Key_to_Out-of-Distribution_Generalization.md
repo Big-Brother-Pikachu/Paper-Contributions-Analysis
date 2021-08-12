@@ -1,4 +1,4 @@
-[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/pdf/2106.02890.pdf)
+[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](#1.-ICML-2021-Oral)
 
 # Contributions in my words
 
