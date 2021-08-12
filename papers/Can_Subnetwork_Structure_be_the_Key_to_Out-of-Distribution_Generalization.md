@@ -1,3 +1,5 @@
+[Can Subnetwork Structure be the Key to Out-of-Distribution Generalization?](https://arxiv.org/pdf/2106.02890.pdf)
+
 # Contributions in my words
 
 1. They found a sparse classifier is good for Out-of-distribution(OOD) generalization.

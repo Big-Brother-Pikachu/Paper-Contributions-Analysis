@@ -1,3 +1,5 @@
+[Reducing Domain Gap by Reducing Style Bias](https://arxiv.org/pdf/1910.11645.pdf)
+
 # Contributions in my words
 
 1. As previous work claimed, supervised trained CNN has style bias, which leads to poor generalization ability. They proposed a general framework called Style-Agnostic Networks(SagNets), which aims to make the network agnostic to styles in an end-to-end manner.
