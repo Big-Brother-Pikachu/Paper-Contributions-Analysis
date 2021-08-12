@@ -1,4 +1,4 @@
-[**Reducing Domain Gap by Reducing Style Bias**](https://github.com/Big-Brother-Pikachu/Paper-Contributions-Analysis#2_reducing_domain_gap_by_reducing_style_bias)
+[**Reducing Domain Gap by Reducing Style Bias**](../#2-reducing-domain-gap-by-reducing-style-bias)
 
 # Contributions in my words
 
