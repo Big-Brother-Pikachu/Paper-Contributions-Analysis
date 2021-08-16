@@ -15,3 +15,8 @@ Train to summary one paper's contributions.
 **CVPR 2021 Oral** <https://arxiv.org/pdf/2011.05558.pdf>
 
 [Contributions Analysis](papers/Intentonomy:_a_Dataset_and_Study_towards_Human_Intent_Understanding.md)
+
+## 4. Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Videos
+**CVPR 2018 Oral** <https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf>
+
+[Contributions Analysis](papers/Finding_It:_Weakly-Supervised_Reference-Aware_Visual_Grounding_in_Instructional_Videos.md)
