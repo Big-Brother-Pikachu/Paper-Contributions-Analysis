@@ -4,13 +4,16 @@
 
 1. They proposed a visually grounded action graph to explicitly capture the latent dependencies between grounding and reference in instructional video.
 2. They proposed a joint framework for reference-aware visual grounding to effectively infer this graph from input video and transcription.
-3. As the dense annotations are hard to acquire, they proposed a new reference-aware multiple instance learning (RA-MIL)
-method for weakly-supervised learning.
+3. As the dense annotations are hard to acquire, they proposed a new reference-aware multiple instance learning (RA-MIL) method for weakly-supervised learning.
 
 # Contributions they claim
 
-1. To formulate the visual grounding task for the video domain.
+1. To formulate the visual grounding in instructional videos task for the video domain.
 2. To present a novel visual grounding model that is both reference-aware and weakly-supervised.
 3. To provide reference-grounding test set annotations for two main instructional video benchmarks.
 
 # Contributions in my words modified
+
+1. They proposed a visually grounded action graph to explicitly capture the latent dependencies between grounding and reference in instructional video. **They formulate grounding in videos as optimization of this graph.**
+2. They proposed a joint framework for reference-aware visual grounding to effectively infer this graph from input video and transcription. As the dense annotations are hard to acquire, they proposed a new reference-aware multiple instance learning (RA-MIL) method for weakly-supervised learning.
+3. **They provided reference-grounding test set annotations for two main instructional video benchmarks.**
