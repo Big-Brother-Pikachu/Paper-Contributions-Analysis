@@ -20,3 +20,8 @@ Train to summary one paper's contributions.
 **CVPR 2018 Oral** <https://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf>
 
 [Contributions Analysis](papers/Finding_It:_Weakly-Supervised_Reference-Aware_Visual_Grounding_in_Instructional_Videos.md)
+
+## 5. Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling
+**CVPR 2021 Oral** <https://arxiv.org/pdf/2102.06183.pdf>
+
+[Contributions Analysis](papers/Less_is_More:_CLIPBERT_for_Video-and-Language_Learning_via_Sparse_Sampling.md)
