@@ -15,5 +15,5 @@
 # Contributions in my words modified
 
 1. They proposed a new **continuous** scene representation called neural radiance field scene representation, which **is parameterized as basic MLP networks** and maps each location and viewing direction to volume density and directional emitted color. They used a differential volumn rendering technology to synthesis images from this scene representation.
-2. They used positional encoding and hierarchical sampling to improve the quality and this scene representation can be learned via backpropagation **from standard RGB images**.
+2. They used positional encoding and hierarchical sampling to improve the quality and this scene representation can be learned via backpropagation **using standard RGB images**.
 3. Experiment results demonstrate that this method outperforms prior work quantitatively and qualitatively with less computation cost. Ablation studies verify the design choices of this method.
