@@ -25,3 +25,8 @@ Train to summary one paper's contributions.
 **CVPR 2021 Oral** <https://arxiv.org/pdf/2102.06183.pdf>
 
 [Contributions Analysis](papers/Less_is_More:_CLIPBERT_for_Video-and-Language_Learning_via_Sparse_Sampling.md)
+
+## 6. NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
+**ECCV 2020 Oral** <https://arxiv.org/pdf/2003.08934.pdf>
+
+[Contributions Analysis](papers/NeRF:_Representing_Scenes_as_Neural_Radiance_Fields_for_View_Synthesis.md)
