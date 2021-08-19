@@ -30,3 +30,8 @@ Train to summary one paper's contributions.
 **ECCV 2020 Oral** <https://arxiv.org/pdf/2003.08934.pdf>
 
 [Contributions Analysis](papers/NeRF:_Representing_Scenes_as_Neural_Radiance_Fields_for_View_Synthesis.md)
+
+## 7. GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields
+**CVPR 2021 Oral** <https://arxiv.org/pdf/2011.12100.pdf>
+
+[Contributions Analysis](papers/GIRAFFE:_Representing_Scenes_as_Compositional_Generative_Neural_Feature_Fields.md)
