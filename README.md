@@ -39,4 +39,4 @@ Train to summary one paper's contributions.
 ## 8. Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation
 **NeurIPS 2020 Oral** <https://arxiv.org/pdf/2011.00147.pdf>
 
-[Contributions Analysis](papers/Pixel-Level_Cycle_Association:_A_New_Perspective_for_Domain_Adaptive_Semantic_Segmentation.md) 
+[Contributions Analysis](papers/Pixel-Level_Cycle_Association:_A_New_Perspective_for_Domain_Adaptive_Semantic_Segmentation.md)
