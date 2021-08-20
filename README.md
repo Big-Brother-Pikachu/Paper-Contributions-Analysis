@@ -35,3 +35,8 @@ Train to summary one paper's contributions.
 **CVPR 2021 Oral** <https://arxiv.org/pdf/2011.12100.pdf>
 
 [Contributions Analysis](papers/GIRAFFE:_Representing_Scenes_as_Compositional_Generative_Neural_Feature_Fields.md)
+
+## 8. Pixel-Level Cycle Association: A New Perspective for Domain Adaptive Semantic Segmentation
+**NeurIPS 2020 Oral** <https://arxiv.org/pdf/2011.00147.pdf>
+
+[Contributions Analysis](papers/Pixel-Level_Cycle_Association:_A_New_Perspective_for_Domain_Adaptive_Semantic_Segmentation.md)
