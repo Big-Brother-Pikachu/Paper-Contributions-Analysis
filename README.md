@@ -40,3 +40,8 @@ Train to summary one paper's contributions.
 **NeurIPS 2020 Oral** <https://arxiv.org/pdf/2011.00147.pdf>
 
 [Contributions Analysis](papers/Pixel-Level_Cycle_Association:_A_New_Perspective_for_Domain_Adaptive_Semantic_Segmentation.md)
+
+## 9. Knowledge Evolution in Neural Networks
+**CVPR 2021 Oral** <https://arxiv.org/pdf/2103.05152.pdf>
+
+[Contributions Analysis](papers/Knowledge_Evolution_in_Neural_Networks.md)
