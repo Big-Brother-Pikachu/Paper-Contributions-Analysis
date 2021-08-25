@@ -45,3 +45,8 @@ Train to summary one paper's contributions.
 **CVPR 2021 Oral** <https://arxiv.org/pdf/2103.05152.pdf>
 
 [Contributions Analysis](papers/Knowledge_Evolution_in_Neural_Networks.md)
+
+## 10. Learning to Reconstruct Shapes from Unseen Classes
+**NeurIPS 2018 Oral** <https://arxiv.org/pdf/1812.11166.pdf>
+
+[Contributions Analysis](papers/Learning_to_Reconstruct_Shapes_from_Unseen_Classes.md)
