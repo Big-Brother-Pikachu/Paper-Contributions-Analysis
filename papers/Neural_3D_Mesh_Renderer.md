@@ -17,4 +17,4 @@
 
 1. They proposed neural 3D mesh renderer to differentially generate images from 3D mesh. They proposed an approximate gradient for rasterization that enables the integration of rendering into neural networks.
 2. With this renderer, they proposed a simple method that **outperforms the existing voxel-based approach** on the single-image 3D mesh reconstruction task **without 3D supervision**.
-3. With this renderer, they showed that it is possible to perform gradient-based 3D mesh editing operations **for the first time**.
+3. With this renderer, they showed that it is possible to perform gradient-based 3D mesh editing operations **with 2D supervision for the first time**.
