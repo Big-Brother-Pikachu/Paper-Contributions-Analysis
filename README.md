@@ -50,3 +50,8 @@ Train to summary one paper's contributions.
 **NeurIPS 2018 Oral** <https://arxiv.org/pdf/1812.11166.pdf>
 
 [Contributions Analysis](papers/Learning_to_Reconstruct_Shapes_from_Unseen_Classes.md)
+
+## 11. Neural 3D Mesh Renderer
+**CVPR 2018** <https://arxiv.org/pdf/1711.07566.pdf>
+
+[Contributions Analysis](papers/Neural_3D_Mesh_Renderer.md)
