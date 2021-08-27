@@ -55,3 +55,8 @@ Train to summary one paper's contributions.
 **CVPR 2018** <https://arxiv.org/pdf/1711.07566.pdf>
 
 [Contributions Analysis](papers/Neural_3D_Mesh_Renderer.md)
+
+## 12. Uncertainty-aware Score Distribution Learning for Action Quality Assessment
+**CVPR 2020 Oral** <https://arxiv.org/pdf/2006.07665.pdf>
+
+[Contributions Analysis](papers/Uncertainty-aware_Score_Distribution_Learning_for_Action_Quality_Assessment.md)
