@@ -60,3 +60,8 @@ Train to summary one paper's contributions.
 **CVPR 2020 Oral** <https://arxiv.org/pdf/2006.07665.pdf>
 
 [Contributions Analysis](papers/Uncertainty-aware_Score_Distribution_Learning_for_Action_Quality_Assessment.md)
+
+## 13. Evidential Deep Learning for Open Set Action Recognition
+**ICCV 2021 Oral** <https://arxiv.org/pdf/2107.10161.pdf>
+
+[Contributions Analysis](papers/Evidential_Deep_Learning_for_Open_Set_Action_Recognition.md)
