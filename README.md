@@ -65,3 +65,8 @@ Train to summary one paper's contributions.
 **ICCV 2021 Oral** <https://arxiv.org/pdf/2107.10161.pdf>
 
 [Contributions Analysis](papers/Evidential_Deep_Learning_for_Open_Set_Action_Recognition.md)
+
+## 14. Towards Discriminability and Diversity: Batch Nuclear-norm Maximization under Label Insufficient Situations
+**CVPR 2020 Oral** <https://arxiv.org/pdf/2003.12237.pdf>
+
+[Contributions Analysis](papers/Towards_Discriminability_and_Diversity:_Batch_Nuclear-norm_Maximization_under_Label_Insufficient_Situations.md)
