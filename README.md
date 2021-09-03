@@ -70,3 +70,8 @@ Train to summary one paper's contributions.
 **CVPR 2020 Oral** <https://arxiv.org/pdf/2003.12237.pdf>
 
 [Contributions Analysis](papers/Towards_Discriminability_and_Diversity:_Batch_Nuclear-norm_Maximization_under_Label_Insufficient_Situations.md)
+
+## 15. Unidentified Video Objects: A Benchmark for Dense, Open-World Segmentation
+**ICCV 2021** <https://arxiv.org/pdf/2104.04691.pdf>
+
+[Contributions Analysis](papers/Unidentified_Video_Objects:_A_Benchmark_for_Dense_Open-World_Segmentation.md)
