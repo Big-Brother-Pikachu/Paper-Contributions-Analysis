@@ -75,3 +75,8 @@ Train to summary one paper's contributions.
 **ICCV 2021** <https://arxiv.org/pdf/2104.04691.pdf>
 
 [Contributions Analysis](papers/Unidentified_Video_Objects:_A_Benchmark_for_Dense_Open-World_Segmentation.md)
+
+## 16. Towards Open World Object Detection
+**CVPR 2021 Oral** <https://arxiv.org/pdf/2103.02603.pdf>
+
+[Contributions Analysis](papers/Towards_Open_World_Object_Detection.md)
