@@ -16,4 +16,4 @@
 
 1. They proposed Local Implicit Image Function(LIIF), which represents **natural and complex images** in continuous domain.
 2. With a self-supervised signal, they can learn this continuous representation via back-propagation.
-3. With this representation, they show superior performance on the traditional super-resolution task and a self-designed size-varied-ground-truth task. **Notably, LIIF representation can generalize to much higher precision than the training scales.**
+3. With this representation, they got superior performance on the traditional super-resolution task and a self-designed size-varied-ground-truth task. **Notably, LIIF representation can generalize to much higher precision than the training scales.**
