@@ -80,3 +80,8 @@ Train to summary one paper's contributions.
 **CVPR 2021 Oral** <https://arxiv.org/pdf/2103.02603.pdf>
 
 [Contributions Analysis](papers/Towards_Open_World_Object_Detection.md)
+
+## 17. Learning Continuous Image Representation with Local Implicit Image Function
+**CVPR 2021 Oral** <https://arxiv.org/pdf/2012.09161.pdf>
+
+[Contributions Analysis](papers/Learning_Continuous_Image_Representation_with_Local_Implicit_Image_Function.md)
